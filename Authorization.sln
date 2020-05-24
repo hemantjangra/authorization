@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization.API", "Authorization.API\Authorization.API.csproj", "{E36AEDC5-005D-41A9-A019-E162FEA467AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization.Entities", "Authorization.Entities\Authorization.Entities.csproj", "{624676DF-9137-419B-B3D6-FBFE17925DF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization.Db", "Authorization.Db\Authorization.Db.csproj", "{A9F1994B-CF1B-40CC-87D3-B74F40EEA821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36AEDC5-005D-41A9-A019-E162FEA467AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36AEDC5-005D-41A9-A019-E162FEA467AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36AEDC5-005D-41A9-A019-E162FEA467AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36AEDC5-005D-41A9-A019-E162FEA467AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624676DF-9137-419B-B3D6-FBFE17925DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624676DF-9137-419B-B3D6-FBFE17925DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624676DF-9137-419B-B3D6-FBFE17925DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624676DF-9137-419B-B3D6-FBFE17925DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F1994B-CF1B-40CC-87D3-B74F40EEA821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F1994B-CF1B-40CC-87D3-B74F40EEA821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F1994B-CF1B-40CC-87D3-B74F40EEA821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F1994B-CF1B-40CC-87D3-B74F40EEA821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
